@@ -17,5 +17,5 @@ dependencies:
   - webdriver-manager
   - selenium
   - PyAutoGUI
-  - powerbiclient
+
 

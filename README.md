@@ -1,6 +1,7 @@
-# ETL 
+# ETL - Elections 2019
 ### :page_facing_up: **Objective**
 Develop an ETL (Extract, Load, Transform) of data related with national spanish elections from 2019. These data is enriched with unemployment rates by province and rent per capita.
+
 
 ### :nut_and_bolt: **Deployment**
 #### :key: Prerequisites
@@ -20,7 +21,7 @@ The installation process is the next:
 ----
 #### :file_folder: **Folder structure**
 ```
-└── ETL_ih
+└── Elections
     ├── .gitignore
     ├── data
         ├── 
@@ -45,6 +46,10 @@ The installation process is the next:
 
 
 ### :computer: **Technology stack**
+------
+- Jupyter Notebook
+- MySQL
+
 
 ------
 ### :boom: **Analysis developed**
